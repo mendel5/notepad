@@ -21,6 +21,10 @@ How to set up Notepad++ / Notepad Plus Plus
 - Open keyboard shortcuts (B) --> Search for "tab" --> Add desired shortcuts --> Remove default / conflicting shortcuts
 
 ### Part 3
+- Show space characters
+- Menüleiste --> Ansicht --> Symbole anzeigen --> Leerzeichen und Tabulatoren anzeigen
+
+### Part 4
 - Deactivate the orange highlight for changed rows:
   - To change/disable the orange line (Change History Feature)
   - Go to preferences (A): Click Settings > Preferences.
