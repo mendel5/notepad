@@ -25,6 +25,10 @@ How to set up Notepad++ / Notepad Plus Plus
 - Menüleiste --> Ansicht --> Symbole anzeigen --> Leerzeichen und Tabulatoren anzeigen
 
 ### Part 4
+- Show line breaks
+- Menüleiste --> Ansicht --> Automatischer Zeilenumbruch
+
+### Part 5
 - Deactivate the orange highlight for changed rows:
   - To change/disable the orange line (Change History Feature)
   - Go to preferences (A): Click Settings > Preferences.
