@@ -25,7 +25,7 @@ How to set up Notepad++ / Notepad Plus Plus
 - Menüleiste --> Ansicht --> Symbole anzeigen --> Leerzeichen und Tabulatoren anzeigen
 
 ### Part 4
-- Show line breaks
+- Automatic line breaks
 - Menüleiste --> Ansicht --> Automatischer Zeilenumbruch
 
 ### Part 5
