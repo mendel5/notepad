@@ -29,7 +29,7 @@ How to set up Notepad++ / Notepad Plus Plus
 - Menüleiste --> Ansicht --> Automatischer Zeilenumbruch
 
 ### Part 5
-- Disable/deactivate the orange highlight for changed rows (Change History Feature):
+- Disable/deactivate the orange highlight for changed rows (Change history feature)
 - Settings --> Preferences --> Margins/Border/Edge --> uncheck "Change history"
 
 ### Part 6
