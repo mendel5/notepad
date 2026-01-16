@@ -31,6 +31,10 @@ How to set up Notepad++ / Notepad Plus Plus
 ### Part 5
 - Deactivate the orange highlight for changed rows:
   - To change/disable the orange line (Change History Feature)
-  - Go to preferences (A): Click Settings > Preferences.
+  - Go to preferences (A): Click Settings --> Preferences
   - Find Change History: Navigate to the Margins/Border/Edge section.
   - Toggle Option: Untick the box for "Change history" to disable the orange line (and green after saving) for changed lines.
+
+### Part 6
+- Disable the pinned tab feature
+- Settings --> Preferences --> General --> uncheck "Enable pin tab feature"
