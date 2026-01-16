@@ -34,4 +34,4 @@ How to set up Notepad++ / Notepad Plus Plus
 
 ### Part 6
 - Disable the pinned tab feature
-- Settings --> Preferences --> General --> uncheck "Enable pin tab feature"
+- Settings --> Preferences --> Tab Bar --> uncheck "Enable pin tab feature"
