@@ -29,11 +29,8 @@ How to set up Notepad++ / Notepad Plus Plus
 - Menüleiste --> Ansicht --> Automatischer Zeilenumbruch
 
 ### Part 5
-- Deactivate the orange highlight for changed rows:
-  - To change/disable the orange line (Change History Feature)
-  - Go to preferences (A): Click Settings --> Preferences
-  - Find Change History: Navigate to the Margins/Border/Edge section.
-  - Toggle Option: Untick the box for "Change history" to disable the orange line (and green after saving) for changed lines.
+- Disable/deactivate the orange highlight for changed rows (Change History Feature):
+- Settings --> Preferences --> Margins/Border/Edge --> uncheck "Change history"
 
 ### Part 6
 - Disable the pinned tab feature
