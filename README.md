@@ -35,3 +35,8 @@ How to set up Notepad++ / Notepad Plus Plus
 ### Part 6
 - Disable the pinned tab feature
 - Settings --> Preferences --> Tab Bar --> uncheck "Enable pin tab feature"
+
+### Part 7
+- Disable the shortcut `Ctrl` + `T` for transposing lines.
+- This shortcut sometimes interferes with the shortcut `Ctrl` + `Z` that is used to undo the last action (German keyboard layout).
+- Open keyboard shortcuts --> Section: Scintilla --> Change the existing shortcut to nothing
